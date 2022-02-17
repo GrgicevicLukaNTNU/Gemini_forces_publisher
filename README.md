@@ -5,7 +5,7 @@ Visit Njord challange webisite to setup the enviroment: https://njord.gitbook.io
 
 Reading from the keyboard and Publishing to GeneralizedForce!
 
-Forces act from the center of gravity. 
+Forces act from the center of gravity/origin. 
 Use 'q' and 'w' for torque control, rotation around the ship's 'z' axes.
 Use '8' and '2' for the surge force, along with the ship's heading, and '4' and '6' for the sway force,
 perpendicular to the ship's heading.
