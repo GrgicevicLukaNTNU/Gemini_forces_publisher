@@ -3,6 +3,8 @@ ROS package, Gemini simulator, Input forces through keyboard
 
 Visit Njord challange webisite to setup the enviroment: https://njord.gitbook.io/njord/
 
+Downloaded into catkin_ws/src directory and built with catkin_make. I used VS Code in Ubuntu, where I openend the whole catkin_ws folder which automatically installed missing Cmake.
+
 Reading from the keyboard and Publishing to GeneralizedForce!
 
 Forces act from the center of gravity/origin. 
