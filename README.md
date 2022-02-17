@@ -1,4 +1,4 @@
-# Gemini_forces_publisher
+# keyboard_forces
 ROS package, Gemini simulator, Input forces through keyboard
 
 Visit Njord challange webisite to setup the enviroment: https://njord.gitbook.io/njord/
