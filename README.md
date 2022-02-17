@@ -13,5 +13,6 @@ Use '8' and '2' for the surge force, along with the ship's heading, and '4' and 
 perpendicular to the ship's heading.
 Each press of the button increases or decreases torque or the force by 20 N or Nm.
 Maximum is 100 in each degree of freedom...
-Use 'rostopic echo /force_control' to observe actual force commanded.
+Start roscore, ros_client and ros_server first.
+Use 'rostopic echo /force_control' in new terminal to observe actual force commanded.
 Keep this terminal active. Waiting for the input...
